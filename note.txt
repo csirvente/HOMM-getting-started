@@ -1,0 +1,7 @@
+
+
+const OBJ_DIR = 'img/objects/sprites';
+const TERRAIN_DIR = 'img/terrain';
+const UI_DIR = 'img/ui';
+const EFFECTS_DIR = 'img/effects';
+const DEFAULT_HERO = {
